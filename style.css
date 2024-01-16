@@ -17,4 +17,11 @@ list-style-type: none;
 
 .list-items a{
  text-decoration: none;
+<<<<<<< HEAD
+=======
+}
+.feature{
+ text-align: center;
+ font-size: 20px;
+>>>>>>> feature-1
 }
