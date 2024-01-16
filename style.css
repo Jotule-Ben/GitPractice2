@@ -13,8 +13,11 @@
 
 .list-items {
   list-style-type: none;
+  display: flex;
+  align-items: center;
 }
 
 .list-items a {
   text-decoration: none;
 }
+
