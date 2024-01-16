@@ -18,3 +18,10 @@
 .list-items a {
   text-decoration: none;
 }
+
+.about{
+ text-align: center;
+ font-size: 25px;
+ justify-content: center;
+ color: black;
+}
