@@ -15,9 +15,13 @@
   list-style-type: none;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .list-items a {
   text-decoration: none;
+  color: #000;
 }
 
